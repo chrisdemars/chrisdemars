@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris - aka [chrisdemars][website] 👋
 
 ## I'm a Developer, Developer Advocate, Horror Fan, Speaker, and Teacher!
-- 🔭 I’m currently working on [Roughnecks Barbershop](https://www.roughnecksbarbershop.com/)!
+- 🔭 Finished working on [Roughnecks Barbershop](https://www.roughnecksbarbershop.com/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Write more blog posts!
