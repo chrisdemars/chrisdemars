@@ -4,7 +4,7 @@
 - 🔭 Finished working on [Roughnecks Barbershop](https://www.roughnecksbarbershop.com/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Write more blog posts!
+- 🥅 2021 Goals: Get this JS stuff under wraps, so far, failing!
 - ⚡ Fun fact: I have a "Three One Three" tattoo on the back of my neck.
 
 ### Connect with me:
@@ -34,5 +34,4 @@
 
 [website]: https://chrisdemars.com
 [twitter]: https://twitter.com/saltnburnem
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/chrisdemars
