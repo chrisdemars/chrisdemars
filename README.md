@@ -35,3 +35,5 @@
 [website]: https://chrisdemars.com
 [twitter]: https://twitter.com/saltnburnem
 [linkedin]: https://linkedin.com/in/chrisdemars
+<br />
+![Visitor Count](https://profile-counter.glitch.me/{chrisdemars}/count.svg)
