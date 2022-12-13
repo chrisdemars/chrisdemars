@@ -1,10 +1,10 @@
 ### Hi there, I'm Chris - aka [chrisdemars][website] 👋
 
 ## I'm a Developer, Developer Advocate, Horror Fan, Speaker, and Teacher!
-- 🔭 Finished working on [Roughnecks Barbershop](https://www.roughnecksbarbershop.com/)!
+- 🔭 Advocating for Feature Flags and A/B testing! [Split Software](https://www.split.io/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get this JS stuff under wraps, so far, failing!
+- 🥅 2023 Goals: Get this JS stuff under wraps, so far, failing!
 - ⚡ Fun fact: I have a "Three One Three" tattoo on the back of my neck.
 
 ### Connect with me:
