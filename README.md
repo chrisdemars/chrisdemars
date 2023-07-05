@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris - aka [chrisdemars][website] 👋
 
 ## I'm a Developer, Developer Advocate, Horror Fan, Speaker, and Teacher!
-- 🔭 Advocating for Feature Flags and A/B testing! [Split Software](https://www.split.io/)!
+- 🔭 Free Agent Developer Advocate looking for my next role!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Get this JS stuff under wraps, so far, failing!
