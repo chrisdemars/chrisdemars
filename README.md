@@ -4,7 +4,7 @@
 - 🔭 Senior Developer Advocate at DigitalOcean!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Get this JS stuff under wraps, so far, failing!
+- 🥅 2024 Goals: Get this JS stuff under wraps, so far, failing!
 - ⚡ Fun fact: I have a "Three One Three" tattoo on the back of my neck.
 
 ### Connect with me:
